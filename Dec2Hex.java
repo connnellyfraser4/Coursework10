@@ -33,7 +33,7 @@ class Dec2Hex
             num= num/16;
         }
 
-        System.out.println("the Hexidecimal output for this number is: " + hexadecimal);
+        System.out.println("Hexadecimal representation is: " + hexadecimal);
 
     }
 }
